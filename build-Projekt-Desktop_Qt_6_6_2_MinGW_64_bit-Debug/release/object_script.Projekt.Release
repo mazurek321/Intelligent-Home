@@ -1,0 +1,14 @@
+release/DeviceWidget.o
+release/LightDeviceWidget.o
+release/MyTCPServer.o
+release/RollerBlindDeviceWidget.o
+release/TemperatureDeviceWidget.o
+release/main.o
+release/mainwindow.o
+release/qrc_Images.o
+release/moc_DeviceWidget.o
+release/moc_LightDeviceWidget.o
+release/moc_MyTCPServer.o
+release/moc_RollerBlindDeviceWidget.o
+release/moc_TemperatureDeviceWidget.o
+release/moc_mainwindow.o

@@ -1,0 +1,14 @@
+debug/DeviceWidget.o
+debug/LightDeviceWidget.o
+debug/MyTCPServer.o
+debug/RollerBlindDeviceWidget.o
+debug/TemperatureDeviceWidget.o
+debug/main.o
+debug/mainwindow.o
+debug/qrc_Images.o
+debug/moc_DeviceWidget.o
+debug/moc_LightDeviceWidget.o
+debug/moc_MyTCPServer.o
+debug/moc_RollerBlindDeviceWidget.o
+debug/moc_TemperatureDeviceWidget.o
+debug/moc_mainwindow.o
